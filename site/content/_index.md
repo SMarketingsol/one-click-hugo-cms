@@ -1,14 +1,13 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Better Descriptions for your videos
+subtitle: We'll help you with Youtube Search Engine Optimization
+image: /img/549306main_pia14093-43_800-600.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Why YouTube SEO?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    YouTube has become the Second Largest Search Engine on the Internet just
+    behind Google, and It uses text to find out information about the videos
+    that are being posted by Youtubers.
 intro:
   heading: What we offer
   text: >-
