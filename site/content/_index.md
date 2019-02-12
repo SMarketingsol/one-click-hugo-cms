@@ -23,11 +23,7 @@ products:
   - image: /img/screen-shot-2019-02-12-at-12.43.16-pm.png
     text: YouTube SEOptimized Tags
 values:
-  heading: Our values
-  text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: How to get more viewers.
+  text: Text here
 ---
 
