@@ -16,21 +16,12 @@ intro:
     tags and titles Optimized for your videos for Better Rankings so that you
     can focus on what matters, Your Content.
 products:
-  - image: img/illustrations-coffee.svg
-    text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
-  - image: /img/about-single-origin.jpg
-    text: Our best product ever.
+  - image: /img/title.jpg
+    text: Youtube Titles
+  - image: /img/youtube.png
+    text: YouTube Descriptions
+  - image: /img/screen-shot-2019-02-12-at-12.43.16-pm.png
+    text: YouTube SEOptimized Tags
 values:
   heading: Our values
   text: >-
