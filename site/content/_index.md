@@ -7,14 +7,14 @@ blurb:
   text: >-
     YouTube has become the Second Largest Search Engine on the Internet just
     behind Google, and It uses text to find out information about the videos
-    that are being posted by Youtubers.
+    that are being posted by Youtubers. So it is very important that your Title,
+    Descriptions, and Tags are optimized for search engine crawlers.
 intro:
   heading: What we offer
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    We offer a Customized Solution for your Video Descriptions and suggest video
+    tags and titles Optimized for your videos for Better Rankings so that you
+    can focus on what matters, Your Content.
 products:
   - image: img/illustrations-coffee.svg
     text: >-
