@@ -4,8 +4,10 @@ logo: /img/youtube.png
 contact_entries:
   - heading: Location
     text: The internet
-  - heading: Working hours
-    text: All Day
+  - heading: 'Working hours '
+    text: |-
+
+      All Day
 ---
 We’d love to get in touch with you and hear your ideas and
 questions. We strive to grow and improve constantly and your feedback
