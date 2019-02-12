@@ -5,10 +5,12 @@ image: /img/549306main_pia14093-43_800-600.jpg
 blurb:
   heading: Why YouTube SEO?
   text: >-
-    YouTube has become the Second Largest Search Engine on the Internet just
-    behind Google, and It uses text to find out information about the videos
-    that are being posted by Youtubers. So it is very important that your Title,
-    Descriptions, and Tags are optimized for search engine crawlers.
+    The YouTube Search Engine is designed and optimized for the Best User
+    Experience possible. YouTube has become the Second Largest Search Engine on
+    the Internet just behind Google, and It uses text to find out information
+    about the videos that are being posted by Youtubers. So it is very important
+    that your Title, Descriptions, and Tags are optimized for search engine
+    crawlers.
 intro:
   heading: What we offer
   text: >-
